@@ -1,0 +1,7 @@
+venv
+source.zip
+.terraform
+terraform.tfstate*
+.git
+.idea
+*.iml
